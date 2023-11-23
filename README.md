@@ -1,2 +1,2 @@
-# Online_book_store-
+# Online_book_store
 I developed this project using Java.
